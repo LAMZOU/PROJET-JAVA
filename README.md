@@ -1,5 +1,8 @@
 Pour le Projet de Gestion de Budget Nous avons essayer d'implementer en Plusieurs parties.
-D'abord nous avons proceder à la creation des différents class. Ceci dit nous avons:
+D'abord nous avons proceder à la creation des différents class.
+
+Ceci dit nous avons:
+
 *La Class Application:Il va nous permettre un accès direct à l'application
 *La Class Budget:cette class permet de declarer notre pugnet en intégralité
 *La Class Categorie:Il permet de spécifier la categorie de depenses effetuer
